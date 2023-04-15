@@ -1,0 +1,2 @@
+
+{"success":true,"data":{"group":[{"group":"本地功能","list":[{"name":"功能管理","desc":"介绍:可以针对dokit的内置工具列表进行自定义排序","link":"dokit://native/function_manager","type":"native"}]}]},"code":200}
